@@ -6,7 +6,7 @@
 	SDK:		Gideros
 	Type:		Sample
 	Licensed:	Free to distribute and modify code! 
-				but keep reference to its creator
+			but keep reference to its creator
 	pageWeb:	bowsailboat.com
 	-----------------------------------------------
 	NOTE:
